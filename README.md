@@ -1,16 +1,12 @@
-<h1 align='center'>👋 Hello!</h1>
-<p align='center'>
 <a href="https://www.linkedin.com/in/mdsyukri535/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Syukri-0A66C2?logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MSc-Data%20Science-1F6FEB"/>
 <img src="https://img.shields.io/badge/📍-Birmingham%2C%20UK-30363D"/>
 <img src="https://img.shields.io/badge/Open%20to-Graduate%20Data%20Scientist%20roles-2EA44F"/>
 </p>
 
-Glad to see you here! I'm Muhammad Syukri, a **Data Scientist** with an **MSc in Data Science** from [Coventry University](https://www.coventry.ac.uk/). I build **interpretable machine learning for real-world decisions**, mostly in **sports analytics** ⚽, and I'm also interested in **fintech** problems like fraud detection and risk modelling.
+I'm a **Data Scientist** with an **MSc in Data Science** from [Coventry University](https://www.coventry.ac.uk/), building **interpretable machine learning for real-world decisions**, mostly in **sports analytics** ⚽. I test my models on data they never saw and report where they fall short.
 
-I care most about **honest evaluation**. My models are tested on seasons, competitions or Games they never saw, and I report where they fall short. In each of my main projects, I went back, found flaws in my own first version (like scores measured on training data) and rebuilt it properly.
-
-I'm currently open to **Graduate Data Scientist** and **Analytics** roles in the UK.
+Currently open to **Graduate Data Scientist** and **Analytics** roles in the UK.
 
 ### Featured projects
 
@@ -44,4 +40,4 @@ Also comfortable with: ![JavaScript](https://img.shields.io/badge/JavaScript-F7D
 Always happy to chat with people working on applied modelling, decision support or sports analytics. Outside data, I'm usually at the gym 🏋️ or watching football.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdsyukri535-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsyukri535/)
-[![Email](https://img.shields.io/badge/Email-m.syukri420%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:m.syukri420@gmail.com)
+[![Email](https://img.shields.io/badge/Email-syukri535m%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:syukri535m@gmail.com)
