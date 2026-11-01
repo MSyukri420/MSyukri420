@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Muhammad Syukri 👋</h1>
+<p align="center">
 <a href="https://www.linkedin.com/in/mdsyukri535/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Syukri-0A66C2?logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MSc-Data%20Science-1F6FEB"/>
 <img src="https://img.shields.io/badge/📍-Birmingham%2C%20UK-30363D"/>
@@ -8,21 +10,64 @@ I'm a **Data Scientist** with an **MSc in Data Science** from [Coventry Universi
 
 Currently open to **Graduate Data Scientist** and **Analytics** roles in the UK.
 
+---
+
 ### Featured projects
 
-- 💊 [**Hay Fever Prescribing Forecast**](https://github.com/MSyukri420/HayFever_Forecast): forecasts prescriptions three months ahead for 936 GP practices, from NHS open data and weather, with a Power BI report. *2.9% monthly error on 30 unseen months, against 3.9% for the best baseline.*
-- 💳 [**Thin-File Borrowers**](https://github.com/MSyukri420/Thin-File-Borrowers): scores loan risk for applicants with no credit bureau record, built on 307,511 Home Credit applications. *AUC 0.785 for thin-file applicants on a locked test set.*
-- ⚽ [**Corner Chance Planner**](https://github.com/MSyukri420/final-project-apv): decision support for attacking corners, built on 879 real corners (StatsBomb event data and 360 freeze frames), with a web app for coaches. *Predicts who wins the first ball at AUC 0.68 on unseen competitions.*
-- 🧤 [**Serie A Clean Sheet Prediction**](https://github.com/MSyukri420/CleanSheet_Prediction): forecasts clean sheets from each team's last five matches, built with PySpark. *"High" readiness teams kept clean sheets 2.5× more often than "Low" on two unseen seasons.*
-- 🏅 [**Olympic Medal Prediction**](https://github.com/MSyukri420/Model_Prediction_Olympic): predicts medals from 271,116 athlete entries (1896–2016), explained with SHAP. *ROC AUC 0.75 on Rio 2016, finding 63% of medallists.*
-- 🏢 [**CCK HR Performance System**](https://github.com/MSyukri420/cck-syukri): a full-stack appraisal and survey app built for a real company. *React, Node.js and MongoDB, deployed with one Docker command.*
+#### 💊 [Hay Fever Prescribing Forecast](https://github.com/MSyukri420/HayFever_Forecast)
+Forecasts prescriptions three months ahead for 936 GP practices, from NHS open data and weather, with a Power BI report.
+*2.9% monthly error on 30 unseen months, against 3.9% for the best baseline.*
+
+`Python` `DuckDB` `LightGBM` `PyTorch` `Optuna` `FastAPI` `Docker` `Power BI` `Time Series`
+
+---
+
+#### 💳 [Thin-File Borrowers](https://github.com/MSyukri420/Thin-File-Borrowers)
+Scores loan risk for applicants with no credit bureau record, built on 307,511 Home Credit applications.
+*AUC 0.785 for thin-file applicants on a locked test set.*
+
+`Python` `pandas` `scikit-learn` `LightGBM` `Optuna` `Calibration` `Fairness` `Credit Risk`
+
+---
+
+#### ⚽ [Corner Chance Planner](https://github.com/MSyukri420/final-project-apv)
+Decision support for attacking corners, built on 879 real corners (StatsBomb event data and 360 freeze frames), with a web app for coaches.
+*Predicts who wins the first ball at AUC 0.68 on unseen competitions.*
+
+`Python` `scikit-learn` `SHAP` `FastAPI` `StatsBomb` `Sports Analytics`
+
+---
+
+#### 🧤 [Serie A Clean Sheet Prediction](https://github.com/MSyukri420/CleanSheet_Prediction)
+Forecasts clean sheets from each team's last five matches, built with PySpark.
+*"High" readiness teams kept clean sheets 2.5× more often than "Low" on two unseen seasons.*
+
+`PySpark` `Spark MLlib` `pandas` `Sports Analytics`
+
+---
+
+#### 🏅 [Olympic Medal Prediction](https://github.com/MSyukri420/Model_Prediction_Olympic)
+Predicts medals from 271,116 athlete entries (1896–2016), explained with SHAP.
+*ROC AUC 0.75 on Rio 2016, finding 63% of medallists.*
+
+`Python` `scikit-learn` `XGBoost` `imbalanced-learn` `SHAP`
+
+---
+
+#### 🏢 [CCK HR Performance System](https://github.com/MSyukri420/cck-syukri)
+A full-stack appraisal and survey app built for a real company.
+*Deployed with one Docker command.*
+
+`React` `Node.js` `MongoDB` `Docker` `Full-Stack`
+
+---
 
 ### Tech stack
 
 I mostly work in **Python**, from data cleaning and feature engineering to model tuning and explaining results with **SHAP**. I use **SQL** (DuckDB) and **PySpark** for data pipelines, **FastAPI** and **Docker** to serve models, and **Power BI** for reports.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -41,6 +86,8 @@ I mostly work in **Python**, from data cleaning and feature engineering to model
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 Also comfortable with: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+---
 
 ### Let's connect!
 
