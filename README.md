@@ -46,14 +46,6 @@ Forecasts clean sheets from each team's last five matches, built with PySpark.
 
 ---
 
-#### 🏅 [Olympic Medal Prediction](https://github.com/MSyukri420/Model_Prediction_Olympic)
-Predicts medals from 271,116 athlete entries (1896–2016), explained with SHAP.
-*ROC AUC 0.75 on Rio 2016, finding 63% of medallists.*
-
-`Python` `scikit-learn` `XGBoost` `imbalanced-learn` `SHAP`
-
----
-
 #### 🏢 [CCK HR Performance System](https://github.com/MSyukri420/cck-syukri)
 A full-stack appraisal and survey app built for a real company.
 *Deployed with one Docker command.*
