@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Open%20to-Graduate%20Data%20Scientist%20roles-2EA44F"/>
 </p>
 
-I'm a **Data Scientist** with an **MSc in Data Science** from [Coventry University](https://www.coventry.ac.uk/), building **interpretable machine learning for real-world decisions** in **healthcare** 💊, **credit risk** 💳 and **sports analytics** ⚽. I test my models on data they never saw and report where they fall short.
+I'm a **Data Scientist** with an **MSc in Data Science** from [Coventry University](https://www.coventry.ac.uk/), building **interpretable machine learning for real-world decisions** in **healthcare**, **credit risk** and **sports analytics**. I test my models on data they never saw and report where they fall short.
 
 Currently open to **Graduate Data Scientist** and **Analytics** roles in the UK.
 
