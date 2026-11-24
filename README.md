@@ -8,7 +8,7 @@
 
 I'm a **Data Scientist** with an **MSc in Data Science** from [Coventry University](https://www.coventry.ac.uk/), building **interpretable machine learning for real-world decisions** in **healthcare**, **credit risk** and **sports analytics**. I test my models on data they never saw and report where they fall short.
 
-Currently open to **Graduate Data Scientist** and **Analytics** roles in the UK.
+Currently open to **Graduate Data Scientist** and **Analytics** roles in the UK and Malaysia.
 
 ---
 
