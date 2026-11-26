@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Syukri 👋</h1>
+<h1 align="center">Muhammad Syukri</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/mdsyukri535/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Syukri-0A66C2?logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MSc-Data%20Science-1F6FEB"/>
